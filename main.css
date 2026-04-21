@@ -16,4 +16,8 @@ p {
   font-family: Arial
 }
 
-
+a {
+  display: block;
+  margin-top: 10px;
+  font-family: Arial;
+}
