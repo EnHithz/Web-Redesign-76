@@ -17,6 +17,7 @@ p {
   font-family: Arial
 }
 
+
 h1 {
  font-size: 40px;
  font-family: Arial
@@ -45,5 +46,12 @@ tr:nth-child(odd) {background-color: #f2f2f2;}
 div{
   background-color: darkcyan;
   text-align: right;
+}
+
+
+a {
+  display: block;
+  margin-top: 10px;
+  font-family: Arial;
 }
 
